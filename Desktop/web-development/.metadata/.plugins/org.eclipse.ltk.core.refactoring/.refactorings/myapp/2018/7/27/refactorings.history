@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;myapp/src/main/webapp/jquery/components/admin/user-admin.client.html&apos; to &apos;user-admin.template.client.html&apos;" description="Rename resource &apos;user-admin.client.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/jquery/components/admin/user-admin.client.html" name="user-admin.template.client.html" stamp="1530542921953" updateReferences="true"/>
+</session>
