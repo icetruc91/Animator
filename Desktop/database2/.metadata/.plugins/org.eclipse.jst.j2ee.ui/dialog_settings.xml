@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="Workbench">
-	<item value="true" key="J2EE_EXPORT_OVERWRITE"/>
-	<item value="false" key="J2EE_EXPORT_SOURCE"/>
-	<list key="J2EE_EXPORT_JST_WEB">
-		<item value="/Users/curticelockhart/Desktop/database2/cs5200-summer2018-clockhart/target/cs5200-summer2018-clockhart.war"/>
-		<item value="/Users/curticelockhart/Desktop/database2/cs5200-summer2018-clockhart/cs5200-summer2018-clockhart.war"/>
-	</list>
-</section>

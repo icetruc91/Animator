@@ -2,4 +2,12 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
 <fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="webdev.models.Course"/>
+<fullyQualifiedTypeName name="com.example.myapp.repositories.CourseRepository"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.domain.EntityScan"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="webdev.models.User"/>
+<fullyQualifiedTypeName name="webdev.repositories.UserRepository"/>
 </qualifiedTypeNameHistroy>
