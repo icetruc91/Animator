@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/curticelockhart/Desktop/cs5200 Final Project"/>
 		<item value="/Users/curticelockhart/Desktop/web-development/myapp"/>
 		<item value="/Users/curticelockhart/Desktop/web-development/my-app"/>
 	</list>
